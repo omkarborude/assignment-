@@ -12,7 +12,6 @@ A frontend application with login, paginated quote listing, and quote creation f
 1. Clone the repository.
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
-4. [Optional] Deploy on your preferred cloud provider.
 
 ## Deployment
 - Hosted URL: [https://xcmmxy-3000.csb.app/login]
