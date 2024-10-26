@@ -15,7 +15,7 @@ A frontend application with login, paginated quote listing, and quote creation f
 4. [Optional] Deploy on your preferred cloud provider.
 
 ## Deployment
-- Hosted URL: [https://your-hosted-url.com](https://your-hosted-url.com)
+- Hosted URL: [https://xcmmxy-3000.csb.app/login]
 
 ## API Endpoints
 - Login, Upload Media, Get Quotes, Create Quote.
